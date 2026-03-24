@@ -1,0 +1,38 @@
+body {
+  background: #121212;
+  color: white;
+  font-family: Arial;
+  margin: 0;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  background: #1e1e1e;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 15px;
+  width: 300px;
+}
+
+.song {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.song:hover {
+  background: #3198c1;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  background: #1db954;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+}
