@@ -6,11 +6,12 @@ A music player manager built using React (Vite) and PocketBase that allows users
 
 Steps to build and/or run the software:
 
-1. Clone the repository using: git clone <your-repo-url>
-2. Install dependencies using: npm install
-3. Download PocketBase from: https://pocketbase.io/ and then run: ./pocketbase serve
-4. Start the React app using: npm run dev
-5. Open http://localhost:5173 in your browser
+1. Clone the repository using: git clone https://github.com/Mayes007/musicplayer1.git
+2. Navigate to the project folder: cd musicplayer1/my-music-player
+3. Install dependencies using: npm install
+4. Download PocketBase from: https://pocketbase.io/ and then run: ./pocketbase serve
+5. Start the React app using: npm run dev
+6. Open http://localhost:5173 in your browser
 
 Instructions for using the software:
 
